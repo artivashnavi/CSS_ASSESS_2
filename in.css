@@ -148,6 +148,7 @@ h1{
     margin-bottom: 50px;
     float: left;
     border-radius: 50px;
+     position: relative;
 }
 .bottom-box2{
     width:370px;
@@ -158,6 +159,7 @@ h1{
     margin-bottom: 50px;
     float: left;
     border-radius: 50px;
+     position: relative;
 }
 ul{
     margin-left: 50px;
